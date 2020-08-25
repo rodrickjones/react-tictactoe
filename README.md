@@ -1,3 +1,6 @@
+Based off of the video tutorial [React.js Tic Tac Toe Game in 30 Minutes](https://www.youtube.com/watch?v=it54tShOsuI)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
